@@ -1,1 +1,2 @@
 hello from first commit
+hello from git
